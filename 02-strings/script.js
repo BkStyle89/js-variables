@@ -21,3 +21,15 @@ console.log(fullName); // Output: "Jane Smith"
 // sulla variabile alphabet per ottenere la sua lunghezza
 const numberOfLettersInAlphabet = null;
 console.log(numberOfLettersInAlphabet); // Output: 26
+
+var Name = 'kajetan';
+console.log(Name);
+
+let number = '5'
+console.log(number)
+
+let text = 'frase testo'
+console.log(text)
+
+let bool = (8 == 7);
+console.log(bool)
