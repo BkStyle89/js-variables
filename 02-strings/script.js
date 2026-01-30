@@ -7,6 +7,18 @@
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+let Name = 'kajetan';
+console.log(Name);
+
+let number = 5
+console.log(number)
+
+let text = 'frase testo'
+console.log(text)
+
+let bool = (8 == 7);
+console.log(bool)
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
@@ -21,15 +33,3 @@ console.log(fullName); // Output: "Jane Smith"
 // sulla variabile alphabet per ottenere la sua lunghezza
 const numberOfLettersInAlphabet = alphabet.length;
 console.log(numberOfLettersInAlphabet); // Output: 26
-
-var Name = 'kajetan';
-console.log(Name);
-
-let number = '5'
-console.log(number)
-
-let text = 'frase testo'
-console.log(text)
-
-let bool = (8 == 7);
-console.log(bool)
